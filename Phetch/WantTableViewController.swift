@@ -33,7 +33,7 @@ class WantTableViewController: UITableViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        self.title = "Want"
+        self.title = "Phetch It"
     }
     
     override func numberOfSectionsInTableView(tableView: UITableView) -> Int {

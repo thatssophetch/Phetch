@@ -10,6 +10,13 @@
 		035C3B131C0454CD00AE679A /* AddHaveItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035C3B121C0454CD00AE679A /* AddHaveItemViewController.swift */; };
 		035C3B151C045C4000AE679A /* Grocery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035C3B141C045C4000AE679A /* Grocery.swift */; };
 		035C3B171C0478C400AE679A /* AddWantItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035C3B161C0478C400AE679A /* AddWantItemViewController.swift */; };
+		03796CA71C1029660067669E /* Rectangle 37.png in Resources */ = {isa = PBXBuildFile; fileRef = 03796CA51C1029660067669E /* Rectangle 37.png */; };
+		03796CA81C1029660067669E /* Phetched Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 03796CA61C1029660067669E /* Phetched Selected.png */; };
+		03796CAB1C102A7C0067669E /* Phetched Selectedsmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 03796CA91C102A7C0067669E /* Phetched Selectedsmall.png */; };
+		03796CAC1C102A7C0067669E /* Rectangle 37small.png in Resources */ = {isa = PBXBuildFile; fileRef = 03796CAA1C102A7C0067669E /* Rectangle 37small.png */; };
+		039A6DC61C0D77DB001FC7D2 /* Increase.png in Resources */ = {isa = PBXBuildFile; fileRef = 039A6DC51C0D77DB001FC7D2 /* Increase.png */; };
+		039A6DC81C0D77F5001FC7D2 /* Reduce.png in Resources */ = {isa = PBXBuildFile; fileRef = 039A6DC71C0D77F5001FC7D2 /* Reduce.png */; };
+		039A6DCC1C0D7E49001FC7D2 /* Phetched Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 039A6DCB1C0D7E49001FC7D2 /* Phetched Logo.png */; };
 		03BE3FBE1BFCD79B00C24F77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BE3FBD1BFCD79B00C24F77 /* AppDelegate.swift */; };
 		03BE3FC01BFCD79B00C24F77 /* HaveTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BE3FBF1BFCD79B00C24F77 /* HaveTableViewController.swift */; };
 		03BE3FC21BFCD79B00C24F77 /* WantTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BE3FC11BFCD79B00C24F77 /* WantTableViewController.swift */; };
@@ -34,6 +41,13 @@
 		035C3B121C0454CD00AE679A /* AddHaveItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddHaveItemViewController.swift; sourceTree = "<group>"; };
 		035C3B141C045C4000AE679A /* Grocery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Grocery.swift; sourceTree = "<group>"; };
 		035C3B161C0478C400AE679A /* AddWantItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddWantItemViewController.swift; sourceTree = "<group>"; };
+		03796CA51C1029660067669E /* Rectangle 37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 37.png"; sourceTree = "<group>"; };
+		03796CA61C1029660067669E /* Phetched Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phetched Selected.png"; sourceTree = "<group>"; };
+		03796CA91C102A7C0067669E /* Phetched Selectedsmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phetched Selectedsmall.png"; sourceTree = "<group>"; };
+		03796CAA1C102A7C0067669E /* Rectangle 37small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 37small.png"; sourceTree = "<group>"; };
+		039A6DC51C0D77DB001FC7D2 /* Increase.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Increase.png; sourceTree = "<group>"; };
+		039A6DC71C0D77F5001FC7D2 /* Reduce.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Reduce.png; sourceTree = "<group>"; };
+		039A6DCB1C0D7E49001FC7D2 /* Phetched Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Phetched Logo.png"; sourceTree = "<group>"; };
 		03BE3FB81BFCD79B00C24F77 /* Phetch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Phetch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03BE3FBC1BFCD79B00C24F77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03BE3FBD1BFCD79B00C24F77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +80,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		039A6DC01C0D6ED5001FC7D2 /* sketch */ = {
+			isa = PBXGroup;
+			children = (
+				03796CA91C102A7C0067669E /* Phetched Selectedsmall.png */,
+				03796CAA1C102A7C0067669E /* Rectangle 37small.png */,
+				03796CA51C1029660067669E /* Rectangle 37.png */,
+				03796CA61C1029660067669E /* Phetched Selected.png */,
+				039A6DCB1C0D7E49001FC7D2 /* Phetched Logo.png */,
+				039A6DC51C0D77DB001FC7D2 /* Increase.png */,
+				039A6DC71C0D77F5001FC7D2 /* Reduce.png */,
+			);
+			name = sketch;
+			sourceTree = "<group>";
+		};
 		03BE3FAF1BFCD79B00C24F77 = {
 			isa = PBXGroup;
 			children = (
@@ -87,6 +115,7 @@
 		03BE3FBA1BFCD79B00C24F77 /* Phetch */ = {
 			isa = PBXGroup;
 			children = (
+				039A6DC01C0D6ED5001FC7D2 /* sketch */,
 				03BE3FBD1BFCD79B00C24F77 /* AppDelegate.swift */,
 				03BE3FBF1BFCD79B00C24F77 /* HaveTableViewController.swift */,
 				03BE3FC11BFCD79B00C24F77 /* WantTableViewController.swift */,
@@ -208,8 +237,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03796CAC1C102A7C0067669E /* Rectangle 37small.png in Resources */,
+				03796CAB1C102A7C0067669E /* Phetched Selectedsmall.png in Resources */,
 				03BE3FC51BFCD79B00C24F77 /* Main.storyboard in Resources */,
+				039A6DC61C0D77DB001FC7D2 /* Increase.png in Resources */,
+				03796CA71C1029660067669E /* Rectangle 37.png in Resources */,
 				03BE3FCA1BFCD79B00C24F77 /* LaunchScreen.xib in Resources */,
+				039A6DC81C0D77F5001FC7D2 /* Reduce.png in Resources */,
+				039A6DCC1C0D7E49001FC7D2 /* Phetched Logo.png in Resources */,
+				03796CA81C1029660067669E /* Phetched Selected.png in Resources */,
 				03BE3FC71BFCD79B00C24F77 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

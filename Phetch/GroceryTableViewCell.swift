@@ -11,6 +11,10 @@ import UIKit
 class GroceryTableViewCell: UITableViewCell {
 
     // MARK: properties
+    var index:Int = -1
+    
+    @IBOutlet weak var minusButton: UIView!
+    @IBOutlet weak var plusButton: UIView!
     
     @IBOutlet weak var itemName: UILabel!
     @IBOutlet weak var itemCount: UILabel!

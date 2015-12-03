@@ -42,7 +42,7 @@ class AddHaveItemViewController: UIViewController {
             
             currentGrocery = nil
         } else {
-            Grocery.addHave(Grocery(name: name!, count: quantity!))
+            Grocery.addHave(Grocery(name: name!, count: quantity!, owner: "Jason"))
         }
         
         performSegueWithIdentifier("unwindFromAdd", sender: self)

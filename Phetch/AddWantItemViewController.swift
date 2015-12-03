@@ -42,7 +42,7 @@ class AddWantItemViewController: UIViewController {
             
             currentGrocery = nil
         } else {
-            Grocery.addWant(Grocery(name: name!, count: quantity!))
+            Grocery.addWant(Grocery(name: name!, count: quantity!, owner: "Jason"))
         }
         
         performSegueWithIdentifier("unwindFromAdd", sender: self)
