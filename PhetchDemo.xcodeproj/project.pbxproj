@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		E023470F1B677CD3004F2DBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E023470E1B677CD3004F2DBE /* AppDelegate.swift */; };
 		E02347141B677CD3004F2DBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E02347121B677CD3004F2DBE /* Main.storyboard */; };
-		E02347161B677CD3004F2DBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E02347151B677CD3004F2DBE /* Images.xcassets */; };
+		E02347161B677CD3004F2DBE /* Phey.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E02347151B677CD3004F2DBE /* Phey.xcassets */; };
 		E02347191B677CD3004F2DBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E02347171B677CD3004F2DBE /* LaunchScreen.xib */; };
 		E02347251B677CD3004F2DBE /* ParseDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02347241B677CD3004F2DBE /* ParseDemoTests.swift */; };
 		E02347541B6A50F6004F2DBE /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02347531B6A50F6004F2DBE /* SignUpViewController.swift */; };
@@ -45,7 +45,7 @@
 		E023470D1B677CD3004F2DBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E023470E1B677CD3004F2DBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E02347131B677CD3004F2DBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E02347151B677CD3004F2DBE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E02347151B677CD3004F2DBE /* Phey.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Phey.xcassets; sourceTree = "<group>"; };
 		E02347181B677CD3004F2DBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		E023471E1B677CD3004F2DBE /* Phetch.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Phetch.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E02347231B677CD3004F2DBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -126,7 +126,7 @@
 				E023475D1B6BE32A004F2DBE /* HomeViewController.swift */,
 				E02347531B6A50F6004F2DBE /* SignUpViewController.swift */,
 				E02347571B6BE242004F2DBE /* ResetPasswordViewController.swift */,
-				E02347151B677CD3004F2DBE /* Images.xcassets */,
+				E02347151B677CD3004F2DBE /* Phey.xcassets */,
 				E02347171B677CD3004F2DBE /* LaunchScreen.xib */,
 				E023470C1B677CD3004F2DBE /* Supporting Files */,
 			);
@@ -261,7 +261,7 @@
 			files = (
 				E02347141B677CD3004F2DBE /* Main.storyboard in Resources */,
 				E02347191B677CD3004F2DBE /* LaunchScreen.xib in Resources */,
-				E02347161B677CD3004F2DBE /* Images.xcassets in Resources */,
+				E02347161B677CD3004F2DBE /* Phey.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

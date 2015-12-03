@@ -8,6 +8,7 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        //self.view.backgroundColor = UIColor(patternImage: UIImage(named: "Background@3x.png")!)
     }
 
     override func didReceiveMemoryWarning() {
